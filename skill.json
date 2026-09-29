@@ -1,0 +1,20 @@
+{
+  "name": "genpark-cfg-grammar-token-mask-generator-skill",
+  "version": "1.0.0",
+  "description": "State-machine computing allowable next character/token masks from Context-Free Grammars (EBNF) for structured output",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "cfg-grammar",
+    "token-masking",
+    "ebnf-parser",
+    "structured-generation",
+    "grammar-constrained",
+    "python-standard-library",
+    "agent-skills",
+    "syntax-guard",
+    "json-grammar",
+    "developer-tools"
+  ]
+}
