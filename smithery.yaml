@@ -1,0 +1,6 @@
+name: genpark-cfg-grammar-token-mask-generator-skill
+version: 1.0.0
+description: State-machine computing allowable next character/token masks from Context-Free Grammars (EBNF) for structured output
+command: python
+args:
+  - mcp_server.py
